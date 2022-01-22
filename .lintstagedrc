@@ -1,6 +1,9 @@
 {
-  "*.{js,jsx,ts,tsx,json,md,vue}": [
+  "*.{js,jsx,ts,tsx,json,vue}": [
     "eslint --color --max-warnings 0",
+    "prettier --write"
+  ],
+  "*.md": [
     "prettier --write"
   ]
 }
