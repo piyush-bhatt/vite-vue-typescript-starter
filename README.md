@@ -1,4 +1,4 @@
-![build](https://github.com/piyush-bhatt/vue-ts-starter/actions/workflows/build.yml/badge.svg)
+![ci](https://github.com/piyush-bhatt/vue-ts-starter/actions/workflows/ci.yml/badge.svg)
 
 # Vue 3 + Typescript + Vite
 
