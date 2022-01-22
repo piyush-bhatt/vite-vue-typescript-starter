@@ -6,7 +6,7 @@
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
     "format": "prettier --write .",
-    "lint": "eslint . --ext .js,.jsx,.ts,.tsx,.vue --color --max-warnings 0",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx,.vue,.json --color",
     "pre-commit": "lint-staged",
     "prepare": "husky install"
   },
